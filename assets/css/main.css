@@ -89,6 +89,7 @@ main {
   cursor: pointer;
   opacity: 0;
   background-color: hsl(178, 100%, 50%, .5);
+  transition: .3s;
 }
 
 .card-image-overlay img {
