@@ -128,7 +128,6 @@ main {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  margin-top: 24px;
 }
 
 .card-body .body-info .coin,
@@ -156,6 +155,11 @@ main {
 .card-body .body-info .days-left img{
   max-width: 17px;
   margin-right: 8px;
+}
+
+.divider {
+  margin: 24px 0 16px;
+  border-top:  2px solid var(--very-darkblue-line);
 }
 
 .card-avatar {
