@@ -8,6 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Screenshot](#screenshot)
   - [My process](#my-process)
   - [Built with](#built-with)
+  - [Figma Project](#figma-project)
   - [Author](#author)
 
 ### The challenge
@@ -32,6 +33,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### Figma Project
+
+- [View on Figma](https://www.figma.com/file/QwS8TDVUUgI7AICpbT1hEv/NFT-preview-card-component-challenge-hub?node-id=0%3A1)
+
 
 ## Author
 
